@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull and welcome newes from Shrevvesbury: declaring the proceedings of both armies neer Shrewsbury, with an exact relation of a battell fought before the wals of the said town, October 3. 1642. Also a true relation of a battell fought in Wiltshire, by the Earle of Pembroke, with 500. men, against the Lord Coventry, with 1000. horse and foot, Octob. 4. Wherein 40. cavaliers were slaine, 20. taken prisoners, and all the rest put to flight, with the losse of 10. men. Brought by the last post, Octob. 6. Likewise Prince Roberts propositions to His Majesty concerning the knighting of certain officers under his command.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87393</idno><idno type="EEBO-CITATION">99871793</idno>
+  <idno type="VID">124210</idno>
+  <idno type="EEBO-PROQUEST">2248517218</idno>
+  
+            <idno type="STC">Wing J1127</idno>
+            <idno type="STC">Thomason E121_18</idno>
+            <idno type="STC">ESTC R22589</idno>
+            <idno type="PROQUEST">99871793</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871793e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87393)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124210)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull and welcome newes from Shrevvesbury: declaring the proceedings of both armies neer Shrewsbury, with an exact relation of a battell fought before the wals of the said town, October 3. 1642. Also a true relation of a battell fought in Wiltshire, by the Earle of Pembroke, with 500. men, against the Lord Coventry, with 1000. horse and foot, Octob. 4. Wherein 40. cavaliers were slaine, 20. taken prisoners, and all the rest put to flight, with the losse of 10. men. Brought by the last post, Octob. 6. Likewise Prince Roberts propositions to His Majesty concerning the knighting of certain officers under his command.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Th. Rider,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>October 7. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Coventry, Thomas Coventry, --  Baron, 1606-1661.</term>
+               <term type="personal_name">Pembroke, Philip Herbert, --  Earl of, 1584-1650.</term>
+               <term type="personal_name">Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term type="geographic_name">Shrewsbury (Shropshire) --  History, Military --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124210:1"/>
+            <pb facs="tcp:124210:1"/>
+            <p> JOYFULL AND WELCOME NEVVES FROM SHREVVESBURY: Declaring the Proceedings of both Armies neer <hi>Shrewsbury,</hi> with an exact Relation of a Battell fought before the Wals of the said Town, <hi>October</hi> 3. 1642.</p>
+            <p>
+               <hi>Also a true Relation of a Battell fought in</hi> Wiltshire, <hi>by the Earle of</hi> Pembroke, <hi>with</hi> 500. <hi>men, against the Lord</hi> Coventry, <hi>with</hi> 1000. <hi>Horse and Foot, Octob.</hi> 4. <hi>Wherein</hi> 40. <hi>Cavaliers were slaine,</hi> 20. <hi>taken Prisoners, and all the rest put to flight, with the losse of</hi> 10. <hi>men. Brought by the last Post, Octob.</hi> 6.</p>
+            <p>Likewise Prince ROBERTS Propositions to His Majesty concerning the knighting of certain Officers under His Command.</p>
+            <p>
+               <hi>Printed for</hi> Th. Rider. <hi>October</hi> 7. 1642.</p>
+            <pb facs="tcp:124210:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:124210:2"/>
+            <head>JOYFULL NEWES <hi>FROM</hi> SHREWSBURIE: Declaring the proceedings of both Ar<g ref="char:EOLhyphen"/>mies neere the said Towne, with an exact Relation of a Battell fought there, Octob. 3.</head>
+            <head type="sub">Also a true Relation of a battell fought by the Earle of <hi>Pembroke</hi> in <hi>Wiltshire,</hi> with 500. men, against the Lord <hi>Coventry,</hi> with 1000. horse and Foot, October 4.</head>
+            <p>HIs Excellency having left Lud<g ref="char:EOLhyphen"/>low in a good state and conditi<g ref="char:EOLhyphen"/>on, commanded Colonell Hales and Captain Brown to draw out a thou<g ref="char:EOLhyphen"/>sand Foot and six hundred horse, and foure Peeces of Ordnance, and forth<g ref="char:EOLhyphen"/>with to advance with all expedition to<g ref="char:EOLhyphen"/>wards Shrewsburie, which they accor<g ref="char:EOLhyphen"/>dingly
+<pb n="2" facs="tcp:124210:3"/> did: but so soone as the cavali<g ref="char:EOLhyphen"/>ers had information of their coming, they marched out of the towne with a<g ref="char:EOLhyphen"/>bout six thousand horse and Foot, and with all expedition they could came and met Captaine Browne: but soon were their joyes overwhelmed with sorrow: for before they had many blowes, the Earle of Essex came in with his Forces, which soon caused the Cavaliers to be<g ref="char:EOLhyphen"/>take themselves to flight, the Earle of Lindsey their chief Generall being sorely wounded, and 50. of the cavaliers slaine, and not above nine of our men at the most. This was upon the fourth of O<g ref="char:EOLhyphen"/>ctober, and the day following it was ex<g ref="char:EOLhyphen"/>pected that there would be a generall meeting in the field of both Armies.</p>
+            <p>Prince Robert, who hath since his coming into England beene very active to levie men, and raise Forces against his Majesties great Councel; the high Court of Parliament, having had some oppo<g ref="char:EOLhyphen"/>sition lately at Worcester by the Parlia<g ref="char:EOLhyphen"/>ments Forces, and gaining some honour
+<pb n="3" facs="tcp:124210:3"/> by reason that it was his happy fortune to win the day, and to take 3. of our Co<g ref="char:EOLhyphen"/>lours, yet need he not boast of this: for in this skirmish he lost as many men as we, besides one of his chief comman<g ref="char:EOLhyphen"/>ders, Wilmot by name.</p>
+            <p>His Highnesse having received this opposition at Worcester, immediately marched with all his Army towards Ludlow, and when he came thither, he with all expedition sent to the Kings most excellent Majesty; and in the mes<g ref="char:EOLhyphen"/>sage he sent he propounded these parti<g ref="char:EOLhyphen"/>culars, viz.</p>
+            <p n="1">1. That as he had formerly begun, in obedience to his sacred Majesty, to use his best skill and endeavours to aid and assist his excellent Majesty, and to pre<g ref="char:EOLhyphen"/>serve his royall Person in safety, so doth he hold the same resolution still.</p>
+            <p n="2">2. That seeing those noble and he<g ref="char:EOLhyphen"/>roick spirits which he hath chosen to be Commanders under his Highnesse have so bravely behaved themselves, and have had such happy and fortunate successe,</p>
+            <pb n="4" facs="tcp:124210:4"/>
+            <p> Therfore he doth humbly desire, that His Majesty would be pleased to knight some of them which are now come to His Majesty, because it wilbe a great in<g ref="char:EOLhyphen"/>couragement to all the rest of the Army.</p>
+            <p>There were lately certain Letters sent from Scotland to the Parliament, and read in the House of Commons, dire<g ref="char:EOLhyphen"/>cted to the Lords and Commons now assembled in the high Court of Parlia<g ref="char:EOLhyphen"/>ment of England, in manner of a Re<g ref="char:EOLhyphen"/>monstrance, wherein they did declare the sense that they have of the great di<g ref="char:EOLhyphen"/>stractions and distempers of this King<g ref="char:EOLhyphen"/>dome, tending to the subversion of the long established government thereof, and the confusion of the whole State, and in the end would prove the distru<g ref="char:EOLhyphen"/>ction of that their Kingdome of Scot<g ref="char:EOLhyphen"/>land; and therefore the Lords and Commons of that Kingdome are resol<g ref="char:EOLhyphen"/>ved to present a Petition to His Majesty, with such reasons as they conceive may move him to an accommodation of peace &amp; agreement with both his Hou<g ref="char:EOLhyphen"/>ses
+<pb n="5" facs="tcp:124210:4"/> of Parliament; but if the same should be rejected, they are resolved to assist the Parliament with force of armes, to de<g ref="char:EOLhyphen"/>fend their just cause, and to bring all de<g ref="char:EOLhyphen"/>linquents and incendiaries that have di<g ref="char:EOLhyphen"/>sturbed the peace of the Kingdome, and caused these troubles, to condigne pu<g ref="char:EOLhyphen"/>nishment, which the House with great joy and much thankfulnesse accepted of.</p>
+            <div type="part">
+               <head>A true Relation of the Battell fought by the Earl of <hi>Pembroke</hi> against the Lord <hi>Coven<g ref="char:EOLhyphen"/>try</hi> in Wiltshire, October 4.</head>
+               <p>THe right honourable, the Earle of Pembroke, having (as he suppo<g ref="char:EOLhyphen"/>sed) setled the County of Wilt<g ref="char:EOLhyphen"/>shire in good order, he returned toward the Isle of Wight: before he came thi<g ref="char:EOLhyphen"/>ther, he received information by Letters from some part of the county, that about 1000. Cavaliers were come into that county under the command of the Lord
+<pb n="6" facs="tcp:124210:5"/> Coventry, whereupon he soone retur<g ref="char:EOLhyphen"/>ned againe, and brought along with him 300. horse and foot, and as he passed a<g ref="char:EOLhyphen"/>long, divers of the Trained Bands came in to assist him against the said Lord and his followers, and upon the 4. of Octo<g ref="char:EOLhyphen"/>ber they both met in Wiltshire, and after some debate they charged one against another, the fight continuing fiercely on both sides, at last the Earle obtained the victory, killing 40. cavaliers, and ta<g ref="char:EOLhyphen"/>king 20. prisoners, the Lord Coventry being forced to escape away disguised. The Earl obtained this victory with the losse of 10. men, and hath setled that county in a very good posture, and peaceable condition.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:124210:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
